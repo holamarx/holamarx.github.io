@@ -1,62 +1,171 @@
 body,html {
+    width: 100%;
+    height: 100%;
+    margin: 0px;
+    padding: 0px;
     background-color: black;
 }
-#imagendisco {
-    width: 512px;
-    height: 512px;
+#contenedor {
+    width: 100%;
+    height: 100%;
+    margin: 0px;
+    padding: 0px;
 }
-#titulo1 {
+#tituloindex {
     position: absolute;
-width: 227px;
-height: 64px;
-left: 66px;
-top: 570px;
+    width: 1280px;
+    height: 720px;
+    left: 0px;
+    top: 0px;
+}
+#tituloindex #typo1 {
+    position: absolute;
+width: 1041px;
+height: 246px;
+left: 59px;
+top: 49px;
 
-font-family: Roboto;
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 800;
+font-size: 96px;
+line-height: 85px;
+/* or 89% */
+
+
+color: #FFFFFF;
+}
+#tituloindex #typo2 {
+    position: absolute;
+width: 219px;
+height: 26px;
+left: 61px;
+top: 362px;
+
+font-family: 'Montserrat';
 font-style: normal;
 font-weight: normal;
-font-size: 14px;
-line-height: 16px;
+font-size: 24px;
+line-height: 29px;
+
+color: #FFFFFF;
+
+}
+#tituloindex #typo3 {
+    position: absolute;
+width: 327px;
+height: 87px;
+left: 64px;
+top: 394px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 800;
+font-size: 24px;
+line-height: 29px;
+text-decoration-line: underline;
 
 color: #FFFFFF;
 }
-#titulo2 {
+#tituloindex #typo4 {
     position: absolute;
-width: 106px;
-height: 16px;
-left: 66px;
-top: 622px;
+width: 280px;
+height: 235px;
+left: 64px;
+top: 438px;
 
-font-family: Roboto;
-font-style: italic;
-font-weight: 300;
-font-size: 14px;
-line-height: 16px;
+font-family: 'Roboto';
+font-style: normal;
+font-weight: normal;
+font-size: 12px;
+line-height: 14px;
 
 color: #FFFFFF;
 }
-#titulo3 {
+#seccion2 {
     position: absolute;
-width: 103px;
-height: 13px;
-left: 66px;
-top: 653px;
-
-font-family: Roboto;
-font-style: italic;
-font-weight: 300;
-font-size: 11px;
-line-height: 13px;
-/* identical to box height */
-
-
-color: #DAFF00
+    width: 1280px;
+    height: 720px;
+    left: 0px;
+    top: 721px;
 }
-#imagenzine {
-    width: 512px;
-    height: 512px;
+#seccion3 {
+    position: absolute;
+    width: 1280px;
+    height: 720px;
+    left: 0px;
+    top: 1440px;
 }
-#imagenurss {
-    width: 512px;
-    height: 512px;
+#seccion3 #fotovinilo {
+    position: absolute;
+width: 605px;
+height: 605px;
+left: 21px;
+top: 1503px;
+}
+#seccion3 #nombrevinilo {
+    position: absolute;
+width: 327px;
+height: 87px;
+left: 391px;
+top: 2054px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: normal;
+font-size: 18px;
+line-height: 22px;
+
+color: #FFFFFF;
+}
+#seccion3 #fotouk {
+    position: absolute;
+width: 543px;
+height: 543px;
+left: 677px;
+top: 1534px;
+}
+#seccion3 #nombrezine {
+    position: absolute;
+width: 327px;
+height: 87px;
+left: 1017px;
+top: 2060px;
+
+font-family: Montserrat;
+font-style: normal;
+font-weight: normal;
+font-size: 18px;
+line-height: 22px;
+
+color: #FFFFFF;
+}
+#seccion4 {
+    position: absolute;
+width: 1280px;
+height: 720px;
+left: 0px;
+top: 2160px;
+}
+#seccion4 #fotourss {
+    position: absolute;
+width: 1121px;
+height: 718px;
+left: 79px;
+top: 2155px;
+}
+#seccion4 #nombrezine2 {
+    position: absolute;
+width: 327px;
+height: 87px;
+left: 1017px;
+top: 2740px;
+
+font-family: Montserrat;
+font-style: normal;
+font-weight: normal;
+font-size: 18px;
+line-height: 22px;
+
+color: #FFFFFF;
 }
