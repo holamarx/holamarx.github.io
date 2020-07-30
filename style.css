@@ -13,19 +13,19 @@ body,html {
 }
 #menu {
     position: absolute;
-width: 79px;
-height: 99px;
-left: 1147px;
-top: 49px;
+    width: 79px;
+    height: 99px;
+    left: 1147px;
+    top: 49px;
 
-font-family: 'Montserrat';
-font-style: normal;
-font-weight: bold;
-font-size: 24px;
-line-height: 29px;
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: bold;
+    font-size: 24px;
+    line-height: 29px;
 
-color: #FFFFFF;
-list-style: none
+    color: #FFFFFF;
+    list-style: none
 }
 #tituloindex {
     position: absolute;
@@ -63,37 +63,37 @@ list-style: none
     width: 331px;
     height: 331px;
     left: 46px;
-    top: 742px;
+    top: 22px;
 }
 #seccion2 #hello {
     position: absolute;
-width: 207px;
-height: 81px;
-left: 63px;
-top: 1105px;
+    width: 207px;
+    height: 81px;
+    left: 63px;
+    top: 1105px;
 
-font-family: 'Montserrat' Black;
-font-style: normal;
-font-weight: 900;
-font-size: 14px;
-line-height: 20px;
+    font-family: 'Montserrat' Black;
+    font-style: normal;
+    font-weight: 900;
+    font-size: 14px;
+    line-height: 20px;
 /* or 143% */
 
 
-color: #FFFFFF;
+    color: #FFFFFF;
 }
 #seccion2 #hola {
     position: absolute;
-width: 176px;
-height: 80px;
-left: 63px;
-top: 1217px;
+    width: 176px;
+    height: 80px;
+    left: 63px;
+    top: 1217px;
 
-font-family: 'Montserrat' Black;
-font-style: normal;
-font-weight: 900;
-font-size: 14px;
-line-height: 20px;
+    font-family: 'Montserrat' Black;
+    font-style: normal;
+    font-weight: 900;
+    font-size: 14px;
+    line-height: 20px;
 /* or 143% */
 
 
@@ -104,20 +104,20 @@ color: #FFFFFF;
     width: 1280px;
     height: 720px;
     left: 0px;
-    top: 1440px;
+    top: 34px;
 }
 #seccion3 #workarchive {
     position: absolute;
-width: 283px;
-height: 122px;
-left: 64px;
-top: 1474px;
+    width: 283px;
+    height: 122px;
+    left: 64px;
+    top: 1474px;
 
-font-family: 'Montserrat' Black;
-font-style: normal;
-font-weight: 900;
-font-size: 24px;
-line-height: 25px;
+    font-family: 'Montserrat' Black;
+    font-style: normal;
+    font-weight: 900;
+    font-size: 24px;
+    line-height: 25px;
 /* or 104% */
 
 
@@ -154,16 +154,16 @@ color: #FFFFFF;
 }
 #seccion4 #nombrezine2 {
     position: absolute;
-width: 287px;
-height: 188px;
-left: 490px;
-top: 2562px;
+    width: 287px;
+    height: 188px;
+    left: 490px;
+    top: 2562px;
 
-font-family: 'Roboto';
-font-style: normal;
-font-weight: bold;
-font-size: 12px;
-line-height: 14px;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: bold;
+    font-size: 12px;
+    line-height: 14px;
 
-color: #FFFFFF;
+    color: #FFFFFF;
 }
