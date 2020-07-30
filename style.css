@@ -36,66 +36,19 @@ list-style: none
 }
 #tituloindex #typo1 {
     position: absolute;
-    width: 1041px;
-    height: 246px;
-    left: 59px;
-    top: 49px;
-
-    font-family: 'Montserrat';
-    font-style: normal;
-    font-weight: 800;
-    font-size: 96px;
-    line-height: 85px;
-/* or 89% */
-
-
-color: #FFFFFF;
-}
-#tituloindex #typo2 {
-    position: absolute;
-    width: 219px;
-    height: 26px;
+    width: 200px;
+    height: 19px;
     left: 61px;
-    top: 362px;
-
-    font-family: 'Montserrat';
+    top: 56px;
+    
+    font-family: Montserrat Black;
     font-style: normal;
-    font-weight: normal;
+    font-weight: 900;
     font-size: 24px;
-    line-height: 29px;
-
-    color: #FFFFFF;
-
-}
-#tituloindex #typo3 {
-    position: absolute;
-    width: 327px;
-    height: 87px;
-    left: 64px;
-    top: 394px;
-
-    font-family: 'Montserrat';
-    font-style: normal;
-    font-weight: 800;
-    font-size: 24px;
-    line-height: 29px;
-    text-decoration-line: underline;
-
-    color: #FFFFFF;
-}
-#tituloindex #typo4 {
-    position: absolute;
-    width: 280px;
-    height: 235px;
-    left: 64px;
-    top: 438px;
-
-    font-family: 'Roboto';
-    font-style: normal;
-    font-weight: normal;
-    font-size: 12px;
-    line-height: 14px;
-
+    line-height: 20px;
+    /* or 83% */
+    
+    
     color: #FFFFFF;
 }
 #seccion2 {
@@ -105,56 +58,85 @@ color: #FFFFFF;
     left: 0px;
     top: 721px;
 }
-#seccion3 {
+#seccion2 #fotoperfil {
+    position: absolute;
+width: 194px;
+height: 194px;
+left: 61px;
+top: 814px;
+}
+#seccion2 #hello {
+    position: absolute;
+width: 207px;
+height: 81px;
+left: 63px;
+top: 1105px;
+
+font-family: Montserrat Black;
+font-style: normal;
+font-weight: 900;
+font-size: 14px;
+line-height: 20px;
+/* or 143% */
+
+
+color: #FFFFFF;
+}
+#seccion2 #hola {
+    position: absolute;
+width: 176px;
+height: 80px;
+left: 63px;
+top: 1217px;
+
+font-family: Montserrat Black;
+font-style: normal;
+font-weight: 900;
+font-size: 14px;
+line-height: 20px;
+/* or 143% */
+
+
+color: #FFFFFF;
+}
+#seccion3 #about {
     position: absolute;
     width: 1280px;
     height: 720px;
     left: 0px;
     top: 1440px;
 }
-#seccion3 #fotovinilo {
+#seccion3 #workarchive {
     position: absolute;
-    width: 605px;
-    height: 605px;
-    left: 21px;
-    top: 1503px;
+width: 283px;
+height: 122px;
+left: 64px;
+top: 1474px;
+
+font-family: Montserrat Black;
+font-style: normal;
+font-weight: 900;
+font-size: 24px;
+line-height: 25px;
+/* or 104% */
+
+
+color: #FFFFFF;
 }
-#seccion3 #nombrevinilo {
+#seccion3 #biografia {
     position: absolute;
-    width: 327px;
-    height: 87px;
-    left: 391px;
-    top: 2054px;
+width: 287px;
+height: 188px;
+left: 67px;
+top: 1612px;
 
-    font-family: 'Montserrat';
-    font-style: normal;
-    font-weight: normal;
-    font-size: 18px;
-    line-height: 22px;
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 12px;
+line-height: 14px;
 
-    color: #FFFFFF;
-}
-#seccion3 #fotouk {
-    position: absolute;
-    width: 543px;
-    height: 543px;
-    left: 677px;
-    top: 1534px;
-}
-#seccion3 #nombrezine {
-    position: absolute;
-    width: 327px;
-    height: 87px;
-    left: 1017px;
-    top: 2060px;
-
-    font-family: 'Montserrat';
-    font-style: normal;
-    font-weight: normal;
-    font-size: 18px;
-    line-height: 22px;
-
-    color: #FFFFFF;
+color: #FFFFFF;
 }
 #seccion4 {
     position: absolute;
@@ -163,25 +145,25 @@ color: #FFFFFF;
     left: 0px;
     top: 2160px;
 }
-#seccion4 #fotourss {
+#seccion4 #fotovinilo {
     position: absolute;
-    width: 1121px;
-    height: 718px;
-    left: 79px;
-    top: 2155px;
+    width: 512px;
+    height: 512px;
+    left: -1px;
+    top: 2306px;
 }
 #seccion4 #nombrezine2 {
     position: absolute;
-    width: 327px;
-    height: 87px;
-    left: 1017px;
-    top: 2740px;
+width: 287px;
+height: 188px;
+left: 490px;
+top: 2562px;
 
-    font-family: Montserrat;
-    font-style: normal;
-    font-weight: normal;
-    font-size: 18px;
-    line-height: 22px;
+font-family: Roboto;
+font-style: normal;
+font-weight: bold;
+font-size: 12px;
+line-height: 14px;
 
-    color: #FFFFFF;
+color: #FFFFFF;
 }
