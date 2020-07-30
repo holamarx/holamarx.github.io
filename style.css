@@ -18,7 +18,7 @@ height: 99px;
 left: 1147px;
 top: 49px;
 
-font-family: Montserrat;
+font-family: 'Montserrat';
 font-style: normal;
 font-weight: bold;
 font-size: 24px;
@@ -41,7 +41,7 @@ list-style: none
     left: 61px;
     top: 56px;
     
-    font-family: Montserrat Black;
+    font-family: 'Montserrat' Black;
     font-style: normal;
     font-weight: 900;
     font-size: 24px;
@@ -72,7 +72,7 @@ height: 81px;
 left: 63px;
 top: 1105px;
 
-font-family: Montserrat Black;
+font-family: 'Montserrat' Black;
 font-style: normal;
 font-weight: 900;
 font-size: 14px;
@@ -89,7 +89,7 @@ height: 80px;
 left: 63px;
 top: 1217px;
 
-font-family: Montserrat Black;
+font-family: 'Montserrat' Black;
 font-style: normal;
 font-weight: 900;
 font-size: 14px;
@@ -125,18 +125,18 @@ color: #FFFFFF;
 }
 #seccion3 #biografia {
     position: absolute;
-width: 287px;
-height: 188px;
-left: 67px;
-top: 1612px;
-
-font-family: Roboto;
-font-style: normal;
-font-weight: normal;
-font-size: 12px;
-line-height: 14px;
-
-color: #FFFFFF;
+    width: 287px;
+    height: 188px;
+    left: 67px;
+    top: 1612px;
+    
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: normal;
+    font-size: 12px;
+    line-height: 14px;
+    
+    color: #FFFFFF;
 }
 #seccion4 {
     position: absolute;
@@ -159,7 +159,7 @@ height: 188px;
 left: 490px;
 top: 2562px;
 
-font-family: Roboto;
+font-family: 'Roboto';
 font-style: normal;
 font-weight: bold;
 font-size: 12px;
