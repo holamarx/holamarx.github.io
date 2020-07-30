@@ -60,10 +60,10 @@ list-style: none
 }
 #seccion2 #fotoperfil {
     position: absolute;
-width: 194px;
-height: 194px;
-left: 61px;
-top: 814px;
+    width: 331px;
+    height: 331px;
+    left: 46px;
+    top: 742px;
 }
 #seccion2 #hello {
     position: absolute;
@@ -113,7 +113,7 @@ height: 122px;
 left: 64px;
 top: 1474px;
 
-font-family: Montserrat Black;
+font-family: 'Montserrat' Black;
 font-style: normal;
 font-weight: 900;
 font-size: 24px;
